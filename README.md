@@ -1,1 +1,1 @@
-# java-basic
+This project is created by Nick.
